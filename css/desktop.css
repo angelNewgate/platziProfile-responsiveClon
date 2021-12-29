@@ -1,0 +1,32 @@
+/* HEADER */
+
+
+
+/* PROFILE HEADER */
+
+.profile-header-container {
+  width: 50%;
+}
+
+.container-tab {
+  width: 50%;
+}
+
+/* MAIN */
+
+
+.main {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.main-section {
+  width: 60%;
+}
+.main-section-container {
+  width: 90%;
+}
+
+.aside-right {
+  width: 30%;
+}
